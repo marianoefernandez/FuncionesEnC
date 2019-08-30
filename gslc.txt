@@ -529,7 +529,10 @@ COPA LIBERTADORES 2019<br style="clear: both;">
 <div style="clear: both;"></div>
 
 
-<br style="clear: both;">
+<br style="clear: both;"><div style="width: 980px;height: auto;background: #17573d;font-size:15px;color:white;text-align: center;"><span style="color:greenyellow">Campeón</span><br><img src="http://www.promiedos.com.ar/images/s64/riverplate.png" width="64px"><br>
+    River Plate<div style="clear: both"></div></div>
+
+<div style="clear: both"></div>
 <div id="infoequipo">LLAVES</div><br>
 
 <div id="fixture">
@@ -686,12 +689,13 @@ COPA LIBERTADORES 2019<br style="clear: both;">
 <div style="margin:auto;text-align:center;color: white;font-weight: bold">FINAL COPA LIBERTADORES 2019
 <span style="font-size:10px;color:yellow">Estadio Nacional, Santiago de Chile</span>
 </div>
-<div id="partido" style="margin-top:2px">
+<div id="partido" style="margin-top:15px">
 
-    <span class="fecha">Sab. 23 Noviembre<br> Hora a conf.</span><br>
-    <div style="float: left;" class="I1-155"><img src="http://www.promiedos.com.ar/images/nuevosescudos/clubx.png" width="42px" height="42px"></div><div style="float: right;" class="I2-155"><img src="http://www.promiedos.com.ar/images/nuevosescudos/clubx.png" width="42px" height="42px"></div>
+    <span class="fecha">Sab. 23 Noviembre<br> 20:30 hs</span><br>
+    <div style="float: left;" class="I1-151"><img src="http://www.promiedos.com.ar/images/s64/riverplate.png" width="42px" height="42px"></div>
+<div class="cuadrores3">2 - 0</div><div style="float: right;" class="I2-151"><img src="http://www.promiedos.com.ar/images/s64/flamengo.png" width="42px" height="42px"></div>
     <br style="clear: both;">
-    <div style="float:left;text-align:center" class="E1-155"><div style="margin-left:18px">?</div></div><div style="float:right;text-align:center" class="E2-155"><div style="margin-right:15px">?</div></div>
+    <div style="float:left;text-align:center" class="E1-151"><span style="font-size:10px;margin-left:5px;font-weight:bold">River Plate</span></div><div style="float:right;text-align:center" class="E2-151"><span style="font-size:10px;margin-right:5px;font-weight:bold">Flamengo</span></div>
     
 </div>
 </div>
