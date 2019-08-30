@@ -1,6 +1,4 @@
-<div id="partido2">
-
-    <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="es" lang="es"><script src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><script src="https://www.googletagservices.com/activeview/js/current/osd.js?cb=%2Fr20100101"></script><script src="https://pagead2.googlesyndication.com/pagead/js/r20190826/r20190131/show_ads_impl.js" id="google_shimpl"></script><script type="text/javascript" async="" src="http://www.google-analytics.com/ga.js"></script><script id="tinyhippos-injected">if (window.top.ripple) { window.top.ripple("bootstrap").inject(window, document); }</script><head><meta http-equiv="X-UA-Compatible" content="IE=edge">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="es" lang="es"><script src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><script src="https://www.googletagservices.com/activeview/js/current/osd.js?cb=%2Fr20100101"></script><script type="text/javascript" async="" src="http://www.google-analytics.com/ga.js"></script><script id="tinyhippos-injected">if (window.top.ripple) { window.top.ripple("bootstrap").inject(window, document); }</script><head><meta http-equiv="X-UA-Compatible" content="IE=edge">
 
 	<meta http-equiv="content-type" content="text/html; charset=iso-8859-1">
 	<meta name="author" content="FEDONTE">
@@ -659,22 +657,23 @@ COPA LIBERTADORES 2019<br style="clear: both;">
 </div>
 <div id="partidono">
 </div>
-<div style="margin:auto;text-align:center;color: white">SEMIFINAL 1</div><div id="partido">
+<div style="margin:auto;text-align:center;color: white">SEMIFINAL 1</div>
+<div id="partido" style="margin-top:15px">
 
-    <span class="fecha">Mar. 1 Octubre<div style="float:right"><a href="ficha.php?id=xjsxjktsyg"><img src="images/info77.png" width="18px" style="margin-right:10px"></a></div><br> 21:30 hs</span><br>
-    <div style="float: left;" class="I1-143"><img src="http://www.promiedos.com.ar/images/s64/riverplate.png" width="42px" height="42px"></div><div class="cuadrores3">1 - 0</div><div style="float: right;" class="I2-143"><img src="http://www.promiedos.com.ar/images/s64/bocajuniors.png" width="42px" height="42px"></div>
+    <span class="fecha">Mar. 01 Octubre<br> 21:30 hs</span><br>
+    <div style="float: left;" class="I1-151"><img src="http://www.promiedos.com.ar/images/s64/riverplate.png" width="42px" height="42px"></div>
+<div class="cuadrores3">1 - 0</div><div style="float: right;" class="I2-151"><img src="http://www.promiedos.com.ar/images/s64/bocajuniors.png" width="42px" height="42px"></div>
     <br style="clear: both;">
-    <div style="float:left;text-align:center" class="E1-143"><span style="font-size:10px;margin-left:5px;font-weight:bold">River Plate</span></div><div style="float:right;text-align:center" class="E2-143"><span style="font-size:10px;margin-right:5px;font-weight:bold">Boca Juniors</span></div>
+    <div style="float:left;text-align:center" class="E1-151"><span style="font-size:10px;margin-left:5px;font-weight:bold">River Plate</span></div><div style="float:right;text-align:center" class="E2-151"><span style="font-size:10px;margin-right:5px;font-weight:bold">Boca Juniors</span></div>
     
 </div>
-
 <div id="partido2">
 
-    
-    <span class="fecha">Mar. 22 Octubre<div style="float:right"><a href="ficha.php?id=xjsxjktsgxj"><img src="images/info77.png" width="18px" style="margin-right:10px"></a></div><br> 21:30 hs</span><br>
-    <div style="float: left;" class="I1-144"><img src="http://www.promiedos.com.ar/images/s64/bocajuniors.png" width="42px" height="42px"></div><div class="cuadrores3">1 - 2</div><div style="float: right;" class="I2-144"><img src="http://www.promiedos.com.ar/images/s64/riverplate.png" width="42px" height="42px"></div>
+    <span class="fecha">Mar. 22 Octubre<br> 21:30 hs</span><br>
+    <div style="float: left;" class="I1-152"><img src="http://www.promiedos.com.ar/images/s64/bocajuniors.png" width="42px" height="42px"></div>
+<div class="cuadrores3">1 - 2</div><div style="float: right;" class="I2-152"><img src="http://www.promiedos.com.ar/images/s64/riverplate.png" width="42px" height="42px"></div>
     <br style="clear: both;">
-    <div style="float:left;text-align:center" class="E1-144"><span style="font-size:10px;margin-left:5px;font-weight:bold">Boca Juniors</span></div><div style="float:right;text-align:center" class="E2-144"><span style="font-size:10px;margin-right:5px;font-weight:bold">River Plate</span></div>
+    <div style="float:left;text-align:center" class="E1-152"><span style="font-size:10px;margin-left:5px;font-weight:bold">Boca Juniors</span></div><div style="float:right;text-align:center" class="E2-152"><span style="font-size:10px;margin-right:5px;font-weight:bold">River Plate</span></div>
     
 </div>
 
@@ -715,7 +714,9 @@ COPA LIBERTADORES 2019<br style="clear: both;">
 <div id="partido" style="margin-top:15px">
 
     <span class="fecha">Mie. 02 Octubre<br> 21:30 hs</span><br>
-    <div style="float: left;" class="I1-153"><img src="http://www.promiedos.com.ar/images/s64/gremio.png" width="42px" height="42px"></div><div style="float: right;" class="I2-153"><img src="http://www.promiedos.com.ar/images/s64/flamengo.png" width="42px" height="42px"></div>
+    <div style="float: left;" class="I1-153"><img src="http://www.promiedos.com.ar/images/s64/gremio.png" width="42px" height="42px">
+</div>
+<div class="cuadrores3">1 - 0</div><div style="float: right;" class="I2-153"><img src="http://www.promiedos.com.ar/images/s64/flamengo.png" width="42px" height="42px"></div>
     <br style="clear: both;">
     <div style="float:left;text-align:center" class="E1-153"><span style="font-size:10px;margin-left:5px;font-weight:bold">Gremio</span></div><div style="float:right;text-align:center" class="E2-153"><span style="font-size:10px;margin-right:5px;font-weight:bold">Flamengo</span></div>
     
@@ -723,7 +724,8 @@ COPA LIBERTADORES 2019<br style="clear: both;">
 <div id="partido2">
 
     <span class="fecha">Mie. 23 Octubre<br> 21:30 hs</span><br>
-    <div style="float: left;" class="I1-154"><img src="http://www.promiedos.com.ar/images/s64/flamengo.png" width="42px" height="42px"></div><div style="float: right;" class="I2-154"><img src="http://www.promiedos.com.ar/images/s64/gremio.png" width="42px" height="42px"></div>
+    <div style="float: left;" class="I1-154"><img src="http://www.promiedos.com.ar/images/s64/flamengo.png" width="42px" height="42px"></div>
+<div class="cuadrores3">3 - 1</div><div style="float: right;" class="I2-154"><img src="http://www.promiedos.com.ar/images/s64/gremio.png" width="42px" height="42px"></div>
     <br style="clear: both;">
     <div style="float:left;text-align:center" class="E1-154"><span style="font-size:10px;margin-left:5px;font-weight:bold">Flamengo</span></div><div style="float:right;text-align:center" class="E2-154"><span style="font-size:10px;margin-right:5px;font-weight:bold">Gremio</span></div>
     
@@ -3126,6 +3128,4 @@ SORTEO DE OCTAVOS Y LLAVES: LUNES 13 DE MAYO</div><br>
 
 
 
-</div><iframe id="google_osd_static_frame_3545706831092" name="google_osd_static_frame" style="display: none; width: 0px; height: 0px;"></iframe><ins class="adsbygoogle adsbygoogle-noablate" data-adsbygoogle-status="done" style="display: none !important;"><ins id="aswift_1_expand" style="display:inline-table;border:none;height:0px;margin:0;padding:0;position:relative;visibility:visible;width:0px;background-color:transparent;"><ins id="aswift_1_anchor" style="display:block;border:none;height:0px;margin:0;padding:0;position:relative;visibility:visible;width:0px;background-color:transparent;"><iframe frameborder="0" marginwidth="0" marginheight="0" vspace="0" hspace="0" allowtransparency="true" scrolling="no" allowfullscreen="true" onload="var i=this.id,s=window.google_iframe_oncopy,H=s&amp;&amp;s.handlers,h=H&amp;&amp;H[i],w=this.contentWindow,d;try{d=w.document}catch(e){}if(h&amp;&amp;d&amp;&amp;(!d.body||!d.body.firstChild)){if(h.call){setTimeout(h,0)}else if(h.match){try{h=s.upd(h,i)}catch(e){}w.location.replace(h)}}" id="aswift_1" name="aswift_1" style="left:0;position:absolute;top:0;border:0px;width:0px;height:0px;"></iframe></ins></ins></ins></body><iframe id="google_esf" name="google_esf" src="https://googleads.g.doubleclick.net/pagead/html/r20190826/r20190131/zrt_lookup.html#" data-ad-client="ca-pub-4253255337568552" style="display: none;"></iframe></html>
-    
-</div>
+</div><iframe id="google_osd_static_frame_2179982998000" name="google_osd_static_frame" style="display: none; width: 0px; height: 0px;"></iframe><ins class="adsbygoogle adsbygoogle-noablate" data-adsbygoogle-status="done" style="display: none !important;"><ins id="aswift_1_expand" style="display:inline-table;border:none;height:0px;margin:0;padding:0;position:relative;visibility:visible;width:0px;background-color:transparent;"><ins id="aswift_1_anchor" style="display:block;border:none;height:0px;margin:0;padding:0;position:relative;visibility:visible;width:0px;background-color:transparent;"><iframe frameborder="0" marginwidth="0" marginheight="0" vspace="0" hspace="0" allowtransparency="true" scrolling="no" allowfullscreen="true" onload="var i=this.id,s=window.google_iframe_oncopy,H=s&amp;&amp;s.handlers,h=H&amp;&amp;H[i],w=this.contentWindow,d;try{d=w.document}catch(e){}if(h&amp;&amp;d&amp;&amp;(!d.body||!d.body.firstChild)){if(h.call){setTimeout(h,0)}else if(h.match){try{h=s.upd(h,i)}catch(e){}w.location.replace(h)}}" id="aswift_1" name="aswift_1" style="left:0;position:absolute;top:0;border:0px;width:0px;height:0px;"></iframe></ins></ins></ins></body><iframe id="google_shimpl" style="display: none;"></iframe><iframe id="google_esf" name="google_esf" src="https://googleads.g.doubleclick.net/pagead/html/r20190826/r20190131/zrt_lookup.html#" data-ad-client="ca-pub-4253255337568552" style="display: none;"></iframe></html>
